@@ -1,7 +1,7 @@
 Java
 Spring
 GitHub
-Описание
+
 
 Spring Boot REST API для генерации случайных чисел в заданном диапазоне. Проект создан для изучения основ Java и Spring Boot.
 
