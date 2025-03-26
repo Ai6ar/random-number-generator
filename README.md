@@ -13,20 +13,14 @@ Spring Boot REST API для генерации случайных чисел в 
 Гибкая настройка диапазона значений
 Технологии
 
-Java 11+
-Spring Boot 2.7+
+Java 
+Spring Boot 
 Maven
-Git
-Быстрый старт
+ThymeLeaf
 
-Требования
+JDK 
+Maven 
 
-JDK 11 или новее
-Maven 3.6+
-Git (опционально)
-Установка
-
-Клонируйте репозиторий:
 bash
 git clone it
 cd random-number-generator
